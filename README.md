@@ -5,6 +5,8 @@
 This is a repository to provide HBase with docker image.
 Both HBase and Hadoop run in Pseudo-Distributed mode.
 
+Note that this is for test or educational usage since using Pseudo-Distributed mode.
+
 ## Getting started.
 
 ### Run HBase container
