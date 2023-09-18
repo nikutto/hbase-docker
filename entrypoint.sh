@@ -42,7 +42,7 @@ ssh 127.0.0.1 -o "StrictHostKeyChecking=no" -t 'echo "Trust SSH"'
 
 cd /
 
-echo 'Run JPS to check HBase running correctly.'
+echo 'Run jps to check HBase running correctly.'
 jps
 
 echo '##############################'
